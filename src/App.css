@@ -1,0 +1,32 @@
+body {
+ background-image: url("../public/zedwell-piccadilly-background.png");
+ background-position: center;
+ /* background-repeat: no-repeat; */
+ /* background-size: auto; */
+ background-size: 100% 100%;
+}
+
+html {
+  height: 100%;
+  /* font-size: 16px; */
+}
+
+/*
+@media (max-width: 1400px) {
+  html {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 450px) {
+  html {
+    font-size: 12px;
+  }
+}
+*/

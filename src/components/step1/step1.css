@@ -1,0 +1,22 @@
+.step1-row {
+  height: 100vh;
+  margin-top: -10rem;
+}
+
+.step1-header {
+  margin-top: 1rem;
+  margin-bottom: 3.6rem;
+  min-height: 3rem;
+}
+
+.step1-card {
+  height: 16rem;
+  margin-top: 6rem;
+  margin-bottom: 4rem;
+  min-width: 18.75rem;
+  opacity: 0.78;
+}
+
+.step2-card-header {
+  background-color: beige;
+}
