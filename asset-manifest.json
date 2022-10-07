@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kiosk/static/css/main.6076a70e.css",
+    "main.js": "/kiosk/static/js/main.0f24442c.js",
+    "static/js/787.cda612ba.chunk.js": "/kiosk/static/js/787.cda612ba.chunk.js",
+    "static/media/zedwell-piccadilly-background.png": "/kiosk/static/media/zedwell-piccadilly-background.0388be1149b2f5a53b20.png",
+    "index.html": "/kiosk/index.html",
+    "main.6076a70e.css.map": "/kiosk/static/css/main.6076a70e.css.map",
+    "main.0f24442c.js.map": "/kiosk/static/js/main.0f24442c.js.map",
+    "787.cda612ba.chunk.js.map": "/kiosk/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6076a70e.css",
+    "static/js/main.0f24442c.js"
+  ]
+}
